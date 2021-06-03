@@ -1,0 +1,376 @@
+.body {
+  background: #333;
+}
+.cast1 {
+  position: relative;
+  font-size: 1em;
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  bottom: -1px;
+}
+
+.content {
+  position: absolute;
+  z-index: 999;
+  color: #fff;
+  top: 40%;
+  left: 5%;
+  transform: translateY(-10%);
+  user-select: none;
+}
+
+@media screen and (max-width: 1000px) {
+  font-size: 7px;
+  transform: translatex(30%);
+}
+.logo {
+  margin-top: 120px;
+  margin-left: 90px;
+  color: white;
+}
+.h1 {
+  margin-top: -78px;
+  margin-left: 220px;
+  color: white;
+}
+.para {
+  margin-top: -22px;
+}
+.h3 {
+  margin-top: 90px;
+  margin-left: 220px;
+  color: white;
+}
+.dribble {
+  margin-top: 20px;
+}
+.dr {
+  font-weight: bold;
+  position: relative;
+
+  font-size: 1em;
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  bottom: -1px;
+}
+.drp {
+  margin-top: -20px;
+  margin-left: 45px;
+  position: relative;
+  bottom: -20px;
+}
+.dn {
+  font-weight: bold;
+  position: relative;
+  left: 10px;
+  font-size: 1em;
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  bottom: -1px;
+}
+.dn {
+}
+.dnp {
+  margin-top: -20px;
+  margin-left: 45px;
+  position: relative;
+  bottom: -20px;
+}
+.column12 {
+  margin-top: 40px;
+}
+.wwr {
+  margin-top: 20px;
+}
+.ww {
+  font-weight: bold;
+  position: relative;
+  left: 10px;
+  font-size: 1em;
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+.wwp {
+  margin-top: -20px;
+  margin-left: 45px;
+  position: relative;
+  bottom: -20px;
+}
+.column13 {
+  margin-top: 25px;
+}
+.ffg {
+  margin-top: 20px;
+}
+.fg {
+  font-weight: bold;
+  position: relative;
+  left: 10px;
+  font-size: 1em;
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  bottom: -1px;
+}
+.ffp {
+  margin-top: -20px;
+  margin-left: 45px;
+  position: relative;
+  bottom: -20px;
+}
+.column14 {
+  margin-top: 25px;
+}
+.metalab {
+  margin-top: 0px;
+  margin-left: 250px;
+}
+.meta {
+  font-weight: bold;
+  position: relative;
+  left: 10px;
+  font-size: 1em;
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  bottom: -1px;
+}
+.metap {
+  margin-top: -20px;
+  margin-left: 295px;
+  position: relative;
+  bottom: -20px;
+}
+.column21 {
+  margin-top: -60px;
+}
+.flow {
+  margin-top: 0px;
+  margin-left: 250px;
+}
+.flo {
+  font-weight: bold;
+  position: relative;
+  left: 10px;
+  font-size: 1em;
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  bottom: -1px;
+}
+.flowp {
+  margin-top: -20px;
+  margin-left: 295px;
+  position: relative;
+  bottom: -20px;
+}
+.column22 {
+  margin-top: -60px;
+}
+.unicorn {
+  margin-top: 0px;
+  margin-left: 250px;
+}
+.uni {
+  font-weight: bold;
+  position: relative;
+  left: 10px;
+  font-size: 1em;
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  bottom: -1px;
+}
+.unip {
+  margin-top: -20px;
+  margin-left: 295px;
+  position: relative;
+  bottom: -20px;
+}
+.column23 {
+  margin-top: -60px;
+}
+.future {
+  margin-top: 0px;
+  margin-left: 250px;
+}
+.fut {
+  font-weight: bold;
+  position: relative;
+  left: 10px;
+  font-size: 1em;
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  bottom: -1px;
+}
+.futp {
+  margin-top: -20px;
+  margin-left: 295px;
+  position: relative;
+  bottom: -20px;
+}
+.column24 {
+  margin-top: -60px;
+}
+.pixel {
+  margin-top: 0px;
+  margin-left: 450px;
+}
+.pix {
+  font-weight: bold;
+  position: relative;
+  left: 10px;
+  font-size: 1em;
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+.pixp {
+  margin-top: -20px;
+  margin-left: 495px;
+  position: relative;
+  bottom: -20px;
+}
+.column31 {
+  margin-top: -60px;
+  margin-left: 30px;
+}
+.crew {
+  margin-top: 0px;
+  margin-left: 450px;
+}
+.cre {
+  font-weight: bold;
+  position: relative;
+  left: 10px;
+  font-size: 1em;
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+.crewp {
+  margin-top: -20px;
+  margin-left: 495px;
+  position: relative;
+  bottom: -20px;
+}
+.column32 {
+  margin-top: -60px;
+  margin-left: 30px;
+}
+.mealime {
+  margin-top: 0px;
+  margin-left: 450px;
+}
+.mea {
+  font-weight: bold;
+  position: relative;
+  left: 10px;
+  font-size: 1em;
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  bottom: -1px;
+}
+.meap {
+  margin-top: -20px;
+  margin-left: 495px;
+  position: relative;
+  bottom: -20px;
+}
+.column33 {
+  margin-top: -60px;
+  margin-left: 30px;
+}
+.castro {
+  margin-top: 0px;
+  margin-left: 450px;
+}
+.cast {
+  font-weight: bold;
+  position: relative;
+  left: 10px;
+  font-size: 1em;
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+  bottom: -1px;
+}
+.castp {
+  margin-top: -20px;
+  margin-left: 495px;
+  position: relative;
+  bottom: -20px;
+}
+.column34 {
+  margin-top: -60px;
+  margin-left: 30px;
+}
+.invest {
+  margin-top: 110px;
+  margin-left: 220px;
+  color: white;
+}
+.col1 {
+  margin-top: 50px;
+  margin-left: -20px;
+}
+.col2 {
+  margin-top: -250px;
+  margin-left: 250px;
+}
+.col3 {
+  margin-top: -250px;
+  margin-left: 250px;
+}
+.interest {
+  margin-top: 110px;
+  margin-left: 220px;
+}
+
+.divdline {
+  margin-left: -70px;
+}
+.co1 {
+  margin-top: 50px;
+  margin-left: 220px;
+}
+.co2 {
+  margin-top: -203px;
+  margin-left: 270px;
+}
+.co3 {
+  margin-top: -203px;
+  margin-left: 320px;
+}
+.divdline2 {
+  margin-left: -670px;
+}
+.paragraph {
+  margin-top: 60px;
+  margin-left: 220px;
+}
+.who {
+  margin-top: 60px;
+  margin-left: 220px;
+}
+.name {
+  margin-left: 380px;
+  margin-top: -395px;
+}
+.info {
+  margin-top: -20px;
+  font-size: small;
+}
+.potr2 {
+  margin-top: 40px;
+}
+.name2 {
+  margin-left: 0px;
+  margin-top: 80px;
+}
